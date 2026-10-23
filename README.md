@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Artur 👋
 
-<!--
-**delokoseni/delokoseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | Software Engineering
 
-Here are some ideas to get you started:
+I'm a Software Engineering master's student at AltSTU, passionate about Java development and building practical software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachelor's degree in Software Engineering — 2025
+- 📚 Master's degree in Software Engineering — expected in 2027
+- ☕ Primary language: Java
+- 🚀 Interested in backend development, software architecture, and performance optimization
+
+
+
+*Always learning, building, and improving.*
